@@ -3,5 +3,5 @@ info:
   name: Pokémon Blue Version
 
 exec:
-  args:
+  extra_args:
     - '"/home/deck/Games/GB/Pokemon - Red Version.gb"'
