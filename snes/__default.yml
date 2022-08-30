@@ -1,0 +1,13 @@
+---
+schema: 1
+
+exec:
+  cwd: /Users/deck
+  bin: /usr/bin/flatpak
+  args:
+    - run dev.bsnes.bsnes
+    - --fullscreen
+
+info:
+  categories:
+    - SNES
