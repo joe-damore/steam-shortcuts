@@ -1,0 +1,10 @@
+---
+schema: 1
+
+exec:
+  cwd: /Users/deck
+  bin: /usr/bin/flatpak
+
+info:
+  categories:
+    - Apps
