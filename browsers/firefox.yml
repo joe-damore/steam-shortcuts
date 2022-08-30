@@ -1,0 +1,8 @@
+---
+info:
+  name: Firefox
+
+exec:
+  args:
+    - run org.mozilla.firefox
+

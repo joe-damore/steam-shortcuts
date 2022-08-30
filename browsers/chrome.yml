@@ -1,0 +1,8 @@
+---
+info:
+  name: Google Chrome
+
+exec:
+  args:
+    - run com.google.Chrome
+
