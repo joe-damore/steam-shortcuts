@@ -5,4 +5,3 @@ info:
 exec:
   args:
     - run com.google.Chrome
-
