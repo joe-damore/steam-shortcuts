@@ -1,0 +1,7 @@
+---
+info:
+  name: Pokémon Blue Version
+
+exec:
+  args:
+    - '"/home/deck/Games/GB/Pokemon - Red Version.gb"'
