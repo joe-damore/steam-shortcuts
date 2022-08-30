@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/SNES/Super Mario World 2 - Yoshi's Island.sfc"'
+    - '"/home/deck/Games/SNES/Super Mario World 2 - Yoshi\'s Island.sfc"'
