@@ -1,0 +1,14 @@
+---
+schema: 1
+
+exec:
+  cwd: /Users/deck
+  bin: /usr/bin/flatpak
+  args:
+    - org.duckstation.DuckStation
+    - -fullscreen
+    - -slowboot
+
+info:
+  categories:
+    - PlayStation

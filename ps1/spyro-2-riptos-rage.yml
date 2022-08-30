@@ -1,0 +1,7 @@
+---
+info:
+  name: "Spyro 2: Ripto's Rage"
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/SNES/Spyro 2 - Ripto's Rage! (USA).bin\""

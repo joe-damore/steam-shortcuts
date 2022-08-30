@@ -1,0 +1,7 @@
+---
+info:
+  name: "Spyro the Dragon"
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/SNES/Spyro the Dragon (USA).bin\""

@@ -1,0 +1,7 @@
+---
+info:
+  name: "Spyro: Year of the Dragon"
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/SNES/Spyro - Year of the Dragon (USA) (Rev 1).bin\""
