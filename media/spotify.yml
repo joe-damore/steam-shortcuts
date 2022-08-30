@@ -1,0 +1,7 @@
+---
+info:
+  name: Spotify
+
+exec:
+  args:
+    - run com.spotify.Client
