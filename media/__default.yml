@@ -1,0 +1,12 @@
+---
+schema: 1
+
+exec:
+  cwd: /Users/deck
+  bin: /usr/bin/flatpak
+  args:
+  - run tv.plex.PlexDesktop
+
+info:
+  categories:
+    - Media
