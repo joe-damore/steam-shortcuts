@@ -3,12 +3,12 @@ schema: 1
 
 exec:
   cwd: /Users/deck
-  bin: /usr/bin/flatpak
+  bin: /home/deck/.local/bin/gamescope-mode-change/gamescope-mode-change.py
   args:
-    - /home/deck/.local/bin/gamescope-mode-change/gamescope-mode-change.py
     - --id=1
     - xX-gamescope-Xx
     - "&&"
+    - /usr/bin/flatpak
     - run dev.bsnes.bsnes
     - --fullscreen
 
