@@ -1,0 +1,7 @@
+---
+info:
+  name: "The Legend of Zelda: A Link to the Past"
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/SNES/The Legend of Zelda - A Link to the Past.sfc\""
