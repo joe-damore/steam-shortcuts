@@ -6,6 +6,7 @@ exec:
   bin: /usr/bin/flatpak
   args:
     - run io.mgba.mGBA
+    - -f
 
 info:
   categories:
