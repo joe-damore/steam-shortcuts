@@ -1,0 +1,7 @@
+---
+info:
+  name: Super Metroid
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/SNES/Super Metroid.sfc\""
