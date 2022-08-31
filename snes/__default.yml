@@ -7,6 +7,8 @@ exec:
   args:
     - /home/deck/.local/bin/gamescope-mode-change/gamescope-mode-change.py
     - --id=1
+    - --nestedWidth=768
+    - --nestedHeight=672
     - xX-gamescope-Xx
     - "&&"
     - "%command%"
