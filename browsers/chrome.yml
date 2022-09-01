@@ -5,9 +5,6 @@ info:
 exec:
   args:
     - run
-    - --branch=beta
-    - --arch=x86_64
-    - --command=/app/bin/chrome
     - --file-forwarding
     - com.google.Chrome
     - "@@u"
