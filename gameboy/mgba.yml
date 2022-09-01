@@ -1,0 +1,12 @@
+---
+info:
+  name: mGBA
+  hidden: yes
+  extra_categories:
+    - Apps
+
+exec:
+  cwd: /Users/deck
+  bin: /usr/bin/flatpak
+  args:
+    - run io.mgba.mGBA
