@@ -5,19 +5,12 @@ exec:
   cwd: /Users/deck
   bin: /usr/bin/flatpak
   args:
-    - /home/deck/.local/bin/gamescope-mode-change/gamescope-mode-change.py
-    - --id=1
-    - --nestedWidth=800
-    - --nestedHeight=720
-    - xX-gamescope-Xx
-    - "&&"
+    - gsmc-wrapper
+    - 800
+    - 720
     - "%command%"
     - run io.mgba.mGBA
     - -f
-    - "&&"
-    - /home/deck/.local/bin/gamescope-mode-change/gamescope-mode-change.py
-    - --id=1
-    - xX-gamescope-Xx
 
 info:
   categories:
