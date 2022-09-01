@@ -1,0 +1,7 @@
+---
+info:
+  name: "Super Mario RPG: Legend of the Seven Stars"
+
+exec:
+  extra_args:
+    - "/home/deck/Games/SNES/Super Mario RPG - Legend of the Seven Stars.sfc"
