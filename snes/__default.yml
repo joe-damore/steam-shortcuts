@@ -5,14 +5,12 @@ exec:
   cwd: /Users/deck
   bin: /usr/bin/flatpak
   args:
-    - /home/deck/.local/bin/gamescope-mode-change/gamescope-mode-change.py
-    - --id=1
-    - --nestedWidth=768
-    - --nestedHeight=672
-    - xX-gamescope-Xx
-    - "&&"
+    - /home/deck/.local/bin/gs-wrap
+    - 768
+    - 672
     - "%command%"
-    - run dev.bsnes.bsnes
+    - run
+    - dev.bsnes.bsnes
     - --fullscreen
 
 info:
