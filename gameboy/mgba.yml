@@ -1,7 +1,7 @@
 ---
 info:
   name: mGBA
-  hidden: yes
+  hidden: true
   extra_categories:
     - Apps
 

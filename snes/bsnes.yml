@@ -1,7 +1,7 @@
 ---
 info:
   name: BSNES
-  hidden: yes
+  hidden: true
   extra_categories:
     - Apps
 
