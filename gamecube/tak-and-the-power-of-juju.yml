@@ -1,0 +1,7 @@
+---
+info:
+  name: Tak and the Power of Juju
+
+exec:
+  extra_args:
+    - --exec="/home/deck/Games/GameCube/Tak and the Power of Juju.iso"
