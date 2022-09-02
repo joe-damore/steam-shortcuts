@@ -5,7 +5,7 @@ exec:
   cwd: /Users/deck
   bin: /usr/bin/flatpak
   args:
-    - org.duckstation.DuckStation
+    - run org.duckstation.DuckStation
     - -fullscreen
     - -slowboot
 

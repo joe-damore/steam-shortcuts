@@ -1,0 +1,10 @@
+---
+info:
+  name: DuckStation
+  extra_categories:
+    - Apps
+  hidden: true
+
+exec:
+  args:
+    - run org.duckstation.DuckStation
