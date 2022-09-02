@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/GBA/Pokemon - FireRed Version.gba"'
+    - '"/home/deck/Games/GBA/Pokemon FireRed Version.gba"'
