@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - "\"/home/deck/Games/SNES/Spyro 2 - Ripto's Rage! (USA).bin\""
+    - "\"/home/deck/Games/PS1/Spyro 2 - Ripto's Rage! (USA).bin\""

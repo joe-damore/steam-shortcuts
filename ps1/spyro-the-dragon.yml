@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - "\"/home/deck/Games/SNES/Spyro the Dragon (USA).bin\""
+    - "\"/home/deck/Games/PS1/Spyro the Dragon (USA).bin\""
