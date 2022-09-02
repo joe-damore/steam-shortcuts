@@ -1,0 +1,7 @@
+---
+info:
+  name: "The Legend of Zelda: Wind Waker"
+
+exec:
+  extra_args:
+    - --exec="/home/deck/Games/GameCube/The Legend of Zelda - Wind Waker.iso"
