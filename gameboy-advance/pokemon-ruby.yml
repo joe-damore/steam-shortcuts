@@ -1,0 +1,7 @@
+---
+info:
+  name: Pokémon Ruby Version
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/GBA/Pokemon Ruby Version.gba"'
