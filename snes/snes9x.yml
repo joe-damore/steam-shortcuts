@@ -1,0 +1,14 @@
+---
+info:
+  name: Snes9x
+  hidden: true
+  extra_categories:
+    - Apps
+
+exec:
+  cwd: /Users/deck
+  bin: /usr/bin/flatpak
+  args:
+    - "%command%"
+    - run
+    - com.snes9x.Snes9x

@@ -5,7 +5,7 @@ exec:
   cwd: /Users/deck
   bin: /usr/bin/flatpak
   args:
-    - gsmc-wrapper
+    - /home/deck/.local/bin/gs-wrap
     - 800
     - 720
     - "%command%"
