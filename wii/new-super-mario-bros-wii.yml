@@ -1,0 +1,7 @@
+---
+info:
+  name: New Super Mario Bros. Wii
+
+exec:
+  extra_args:
+    - --exec "/home/deck/Games/Wii/New Super Mario Bros Wii.wbfs"
