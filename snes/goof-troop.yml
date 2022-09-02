@@ -1,0 +1,7 @@
+---
+info:
+  name: Goof Troop
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/SNES/Goof Troop.sfc\""
