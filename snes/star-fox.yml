@@ -1,0 +1,7 @@
+---
+info:
+  name: Star Fox
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/SNES/Star Fox.sfc\""

@@ -1,0 +1,7 @@
+---
+info:
+  name: Kirby Super Star
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/SNES/Kirby Super Star.sfc\""
