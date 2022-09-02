@@ -1,0 +1,7 @@
+---
+info:
+  name: "The Legend of Zelda: Twilight Princess"
+
+exec:
+  extra_args:
+    - --exec="/home/deck/Games/GameCube/The Legend of Zelda - Twilight Princess.iso"
