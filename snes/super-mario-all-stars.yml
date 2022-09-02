@@ -1,0 +1,7 @@
+---
+info:
+  name: Super Mario All-Stars
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/SNES/Super Mario All-Stars.sfc\""
