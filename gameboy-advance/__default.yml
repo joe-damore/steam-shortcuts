@@ -1,0 +1,17 @@
+---
+schema: 1
+
+exec:
+  cwd: /Users/deck
+  bin: /usr/bin/flatpak
+  args:
+    - /home/deck/.local/bin/gs-wrap
+    - 1200
+    - 800
+    - "%command%"
+    - run io.mgba.mGBA
+    - -f
+
+info:
+  categories:
+    - GameBoy Advance
