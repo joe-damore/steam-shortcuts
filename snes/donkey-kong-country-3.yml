@@ -1,0 +1,7 @@
+---
+info:
+  name: "Donkey Kong Country 3: Dixie Kong's Double Trouble!"
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/SNES/Donkey Kong Country 3 - Dixie Kong's Double Trouble!.sfc\""

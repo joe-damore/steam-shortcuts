@@ -1,0 +1,7 @@
+---
+info:
+  name: "Donkey Kong Country 2: Diddy's Kong Quest"
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/SNES/Donkey Kong Country 2 - Diddy's Kong Quest.sfc\""
