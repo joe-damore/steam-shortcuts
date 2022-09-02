@@ -1,0 +1,7 @@
+---
+info:
+  name: Super Mario Galaxy
+
+exec:
+  extra_args:
+    - --exec "/home/deck/Games/Wii/Super Mario Galaxy.wbfs"

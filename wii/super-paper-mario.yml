@@ -1,0 +1,7 @@
+---
+info:
+  name: Super Paper Mario
+
+exec:
+  extra_args:
+    - --exec "/home/deck/Games/Wii/Super Paper Mario.wbfs"
