@@ -1,0 +1,7 @@
+---
+info:
+  name: "Mario & Luigi: Superstar Saga"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/GBA/Mario and Luigi - Superstar Saga.gba"'

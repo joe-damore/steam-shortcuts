@@ -1,0 +1,7 @@
+---
+info:
+  name: Advance Wars
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/GBA/Advance Wars.gba"'

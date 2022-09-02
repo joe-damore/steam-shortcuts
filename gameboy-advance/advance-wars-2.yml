@@ -1,0 +1,7 @@
+---
+info:
+  name: "Advance Wars 2: Black Hole Rising"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/GBA/Advance Wars 2 - Black Hole Rising.gba"'
