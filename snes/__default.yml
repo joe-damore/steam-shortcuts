@@ -5,13 +5,8 @@ exec:
   cwd: /Users/deck
   bin: /usr/bin/flatpak
   args:
-    - /home/deck/.local/bin/gs-wrap
-    - 768
-    - 672
-    - "%command%"
-    - run
-    - dev.bsnes.bsnes
-    - --fullscreen
+    - run com.snes9x.Snes9x
+    - -fullscreen
 
 info:
   categories:

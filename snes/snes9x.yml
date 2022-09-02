@@ -9,6 +9,4 @@ exec:
   cwd: /Users/deck
   bin: /usr/bin/flatpak
   args:
-    - "%command%"
-    - run
-    - com.snes9x.Snes9x
+    - run com.snes9x.Snes9x
