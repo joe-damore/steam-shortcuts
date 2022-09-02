@@ -1,0 +1,7 @@
+---
+info:
+  name: Luigi's Mansion
+
+exec:
+  extra_args:
+    - --exec="/home/deck/Games/GameCube/Luigi's Mansion.iso"
