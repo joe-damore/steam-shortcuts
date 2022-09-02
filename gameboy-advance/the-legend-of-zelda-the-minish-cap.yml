@@ -1,0 +1,7 @@
+---
+info:
+  name: "The Legend of Zelda: The Minish Cap"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/GBA/The Legend of Zelda - The Minish Cap.gba"'
