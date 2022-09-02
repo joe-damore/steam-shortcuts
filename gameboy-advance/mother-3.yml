@@ -1,0 +1,7 @@
+---
+info:
+  name: Mother 3
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/GBA/Mother 3.gba"'
