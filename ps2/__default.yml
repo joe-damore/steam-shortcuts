@@ -1,0 +1,10 @@
+---
+schema: 1
+
+exec:
+  cwd: /Users/deck
+  bin: /home/deck/.local/bin/pcsx2-launcher
+
+info:
+  categories:
+    - PlayStation 2

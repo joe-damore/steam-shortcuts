@@ -1,0 +1,14 @@
+---
+schema: 1
+
+info:
+  name: PCSX2
+  hidden: true
+  extra_categories:
+    - Apps
+
+exec:
+  cwd: /Users/deck
+  bin: /usr/bin/flatpak
+  args:
+    - run net.pcsx2.PCSX2
