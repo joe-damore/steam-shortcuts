@@ -1,0 +1,7 @@
+---
+info:
+  name: Tony Hawk's Underground
+
+exec:
+  extra_args:
+    - --exec="/home/deck/Games/GameCube/Tony Hawk's Underground.iso"
