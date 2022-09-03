@@ -1,0 +1,7 @@
+---
+info:
+  name: Tony Hawk's American Wasteland
+
+exec:
+  extra_args:
+    - --exec="/home/deck/Games/GameCube/Tony Hawk's American Wasteland.iso"
