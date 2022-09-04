@@ -1,0 +1,7 @@
+---
+info:
+  name: "Wario: Master of Disguise"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/NDS/Wario - Master of Disguise.nds"'
