@@ -1,0 +1,7 @@
+---
+info:
+  name: New Super Mario Bros.
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/NDS/New Super Mario Bros.nds"'
