@@ -5,7 +5,7 @@ exec:
   cwd: /Users/deck
   bin: /usr/bin/flatpak
   args:
-    - run org.desmume.DeSmuME
+    - run net.kuribo64.melonDS
 
 info:
   categories:
