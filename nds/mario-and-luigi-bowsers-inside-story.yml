@@ -1,0 +1,7 @@
+---
+info:
+  name: "Mario & Luigi: Bowser's Inside Story"
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/NDS/Mario & Luigi - Bowser's Inside Story.nds\""

@@ -1,0 +1,7 @@
+---
+info:
+  name: "Mario & Luigi: Partners in Time"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/NDS/Mario & Luigi - Partners in TIme.nds"'
