@@ -5,7 +5,7 @@ exec:
   cwd: /Users/deck
   bin: /usr/bin/flatpak
   args:
-    - run flathub net.kuribo64.melonDS
+    - run net.kuribo64.melonDS
 
 info:
   categories:
