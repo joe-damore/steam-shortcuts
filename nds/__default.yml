@@ -3,9 +3,7 @@ schema: 1
 
 exec:
   cwd: /Users/deck
-  bin: /usr/bin/flatpak
-  args:
-    - run net.kuribo64.melonDS
+  bin: /home/deck/.local/bin/melonds-launcher
 
 info:
   categories:
