@@ -4,3 +4,8 @@ info:
   extra_categories:
     - Apps
   hidden: true
+
+exec:
+  bin: /usr/bin/flatpak
+  args:
+    - run net.kuribo64.melonDS
