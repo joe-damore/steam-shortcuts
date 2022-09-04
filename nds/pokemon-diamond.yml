@@ -1,0 +1,7 @@
+---
+info:
+  name: Pokémon Diamond Version
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/NDS/Pokemon Diamond Version.nds"'

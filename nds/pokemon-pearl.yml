@@ -1,0 +1,7 @@
+---
+info:
+  name: Pokémon Pearl Version
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/NDS/Pokemon Pearl Version.nds"'
