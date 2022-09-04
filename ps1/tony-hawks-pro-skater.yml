@@ -1,0 +1,7 @@
+---
+info:
+  name: Tony Hawk's Pro Skater
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/PS1/Tony Hawk's Pro Skater (USA).bin\""
