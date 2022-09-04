@@ -1,0 +1,7 @@
+---
+info:
+  name: Super Smash Bros. Melee
+
+exec:
+  extra_args:
+    - --exec="/home/deck/Games/GameCube/Paper Mario - The Thousand-Year Door.iso"
