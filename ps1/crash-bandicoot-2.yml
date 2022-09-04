@@ -1,0 +1,7 @@
+---
+info:
+  name: "Crash Bandicoot 2: Cortex Strikes Back"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/PS1/Crash Bandicoot 2- Cortex Strikes Back (USA).bin"'

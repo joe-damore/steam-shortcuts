@@ -1,0 +1,7 @@
+---
+info:
+  name: Rayman
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/PS1/Rayman (USA).cue"'

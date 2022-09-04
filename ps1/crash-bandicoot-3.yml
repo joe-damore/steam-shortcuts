@@ -1,0 +1,7 @@
+---
+info:
+  name: "Crash Bandicoot: Warped"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/PS1/Crash Bandicoot - Warped (USA).bin"'

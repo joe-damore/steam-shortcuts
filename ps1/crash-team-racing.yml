@@ -1,0 +1,7 @@
+---
+info:
+  name: "CTR: Crash Team Racing"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/PS1/CTR - Crash Team Racing (USA).bin"'
