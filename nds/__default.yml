@@ -5,8 +5,8 @@ exec:
   cwd: /Users/deck
   bin: /usr/bin/flatpak
   args:
-    - run net.kuribo64.melonDS
+    - run org.desmume.DeSmuME
 
 info:
   categories:
-    - NDS
+    - Nintendo DS
