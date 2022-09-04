@@ -1,0 +1,7 @@
+---
+info:
+  name: "Mario Kart: Double Dash!!"
+
+exec:
+  extra_args:
+    - --exec="/home/deck/Games/GameCube/Mario Kart - Double Dash!!.iso"
