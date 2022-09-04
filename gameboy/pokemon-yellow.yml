@@ -1,0 +1,7 @@
+---
+info:
+  name: Pokémon Yellow Version
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/GBC/Pokemon Yellow Version.gbc"'
