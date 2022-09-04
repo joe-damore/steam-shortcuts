@@ -1,0 +1,7 @@
+---
+info:
+  name: "Rayman 2: The Great Escape"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/PS1/Rayman 2 - The Great Escape (USA) (En,Fr,Es).cue"'
