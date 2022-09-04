@@ -1,0 +1,7 @@
+---
+info:
+  name: Mario Kart DS
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/NDS/Mario Kart DS.nds"'
