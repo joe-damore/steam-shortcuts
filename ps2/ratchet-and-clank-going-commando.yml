@@ -1,7 +1,0 @@
----
-info:
-  name: "Ratchet & Clank: Going Commando"
-
-exec:
-  extra_args:
-    - '"/home/deck/Games/PS2/Ratchet & Clank - Going Commando.iso"'

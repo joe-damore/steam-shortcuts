@@ -1,7 +1,0 @@
----
-info:
-  name: "Ratchet & Clank: Up Your Arsenal"
-
-exec:
-  extra_args:
-    - '"/home/deck/Games/PS2/Ratchet & Clank 3 - Up Your Arsenal.iso"'
