@@ -1,0 +1,7 @@
+---
+info:
+  name: "Tak 2: The Staff of Dreams"
+
+exec:
+  extra_args:
+    - --exec="/home/deck/Games/GameCube/Tak 2 - The Staff of Dreams.iso"
