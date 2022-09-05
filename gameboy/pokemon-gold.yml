@@ -1,0 +1,7 @@
+---
+info:
+  name: Pokémon Gold Version
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/GBC/Pokemon - Gold Version.gb"'
