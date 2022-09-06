@@ -1,0 +1,7 @@
+---
+info:
+  name: Pikmin 3 Deluxe
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/Switch/Pikmin 3 Deluxe/Pikmin 3 Deluxe [0100F4C009322000][v0].nsp"'

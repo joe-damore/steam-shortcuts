@@ -1,0 +1,7 @@
+---
+info:
+  name: Metroid Dread
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/Switch/Metroid Dread/Metroid Dread [010093801237C000][v0].nsp"'
