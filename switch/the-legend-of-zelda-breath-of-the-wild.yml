@@ -1,0 +1,7 @@
+---
+info:
+  name: "The Legend of Zelda: Breath of the Wild"
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/Switch/Legend of Zelda, The - Breath of the Wild/The Legend of Zelda Breath of the Wild.nsp\""

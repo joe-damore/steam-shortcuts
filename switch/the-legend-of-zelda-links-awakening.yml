@@ -1,0 +1,7 @@
+---
+info:
+  name: "The Legend of Zelda: Link's Awakening"
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/Switch/Legend of Zelda, The - Link's Awakening/The Legend of Zelda Links Awakening [01006BB00C6F0000][v0].nsp\""
