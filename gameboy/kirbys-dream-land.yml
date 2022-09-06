@@ -1,0 +1,7 @@
+---
+info:
+  name: Kirby's Dream Land
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/GB/Kirby's Dream Land.gb\""
