@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - "/home/deck/Games/N64/Super Mario 64.n64"
+    - '"/home/deck/Games/N64/Super Mario 64.n64"'
