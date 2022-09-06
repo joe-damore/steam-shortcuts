@@ -1,0 +1,7 @@
+---
+info:
+  name: "Sly Cooper and the Thievius Raccoonus"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/PS2/Sly Cooper and the Thievius Raccoonus.iso"'
