@@ -6,6 +6,8 @@ exec:
   bin: /usr/bin/flatpak
   args:
     - run io.github.simple64.simple64
+    - --fullscreen
+    - --noosd
 
 info:
   categories:

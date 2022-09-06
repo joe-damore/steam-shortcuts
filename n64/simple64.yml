@@ -2,5 +2,7 @@
 info:
   name: Simple64
   hidden: true
+  args:
+    - run io.github.simple64.simple64
   extra_categories:
     - Apps
