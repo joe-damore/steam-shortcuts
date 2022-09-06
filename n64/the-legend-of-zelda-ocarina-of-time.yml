@@ -1,0 +1,7 @@
+---
+info:
+  name: "The Legend of Zelda: Ocarina of Time"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/N64/The Legend of Zelda - Ocarina of Time.n64"'

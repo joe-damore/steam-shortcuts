@@ -1,0 +1,7 @@
+---
+info:
+  name: Mario Kart 64
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/N64/Mario Kart 64.n64"'

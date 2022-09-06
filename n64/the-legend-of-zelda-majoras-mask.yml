@@ -1,0 +1,7 @@
+---
+info:
+  name: "The Legend of Zelda: Majora's Mask"
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/N64/The Legend of Zelda - Majora's Mask.n64\""
