@@ -4,3 +4,6 @@ info:
   hidden: true
   extra_categories:
     - Apps
+exec:
+  args:
+    - run org.yuzu_emu.yuzu

@@ -1,0 +1,7 @@
+---
+info:
+  name: "Paper Mario: The Origami King"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/Switch/Paper Mario - The Origami King/Paper Mario The Origami King.nsp"'

@@ -6,6 +6,8 @@ exec:
   bin: /usr/bin/flatpak
   args:
     - run org.yuzu_emu.yuzu
+    - -f
+    - -g
 
 info:
   categories:
