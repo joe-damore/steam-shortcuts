@@ -1,0 +1,7 @@
+---
+info:
+  name: "Grand Theft Auto: Liberty City Stories"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/PS2/Grand Theft Auto - Liberty City Stories.iso"'
