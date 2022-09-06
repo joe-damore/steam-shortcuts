@@ -1,0 +1,7 @@
+---
+info:
+  name: Metroid Fusion
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/GBA/Metroid Fusion.gba"'
