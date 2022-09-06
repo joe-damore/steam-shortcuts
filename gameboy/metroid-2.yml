@@ -1,0 +1,7 @@
+---
+info:
+  name: "Metroid II: Return of Samus"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/GB/Metroid II - Return of Samus.gb"'
