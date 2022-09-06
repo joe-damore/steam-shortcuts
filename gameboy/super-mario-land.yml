@@ -1,0 +1,7 @@
+---
+info:
+  name: Super Mario Land
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/GB/Super Mario Land.gb"'
