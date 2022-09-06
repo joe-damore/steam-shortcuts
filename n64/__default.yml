@@ -1,0 +1,12 @@
+---
+schema: 1
+
+exec:
+  cwd: /Users/deck
+  bin: /usr/bin/flatpak
+  args:
+    - run io.github.simple64.simple64
+
+info:
+  categories:
+    - Nintendo 64
