@@ -1,0 +1,7 @@
+---
+info:
+  name: Daxter
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/PSP/Daxter.iso"'

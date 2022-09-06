@@ -1,0 +1,7 @@
+---
+info:
+  name: "Ratchet & Clank: Size Matters"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/PSP/Ratchet & Clank - Size Matters.iso"'
