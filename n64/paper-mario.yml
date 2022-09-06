@@ -1,0 +1,7 @@
+---
+info:
+  name: Paper Mario
+
+exec:
+  extra_args:
+    - "/home/deck/Games/N64/Paper Mario.n64"
