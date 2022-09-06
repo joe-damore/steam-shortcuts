@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/GBC/Pokemon - Silver Version.gb"'
+    - '"/home/deck/Games/GBC/Pokemon Silver Version.gb"'
