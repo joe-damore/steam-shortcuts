@@ -1,0 +1,7 @@
+---
+info:
+  name: "Sly 3: Honor Among Thieves"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/PS2/Sly 3 - Honor Among Thieves.iso"'

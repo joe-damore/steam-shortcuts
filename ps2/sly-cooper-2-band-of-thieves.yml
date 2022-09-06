@@ -1,0 +1,7 @@
+---
+info:
+  name: "Sly 2: Band of Thieves"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/PS2/Sly 2 - Band of Thieves.iso"'
