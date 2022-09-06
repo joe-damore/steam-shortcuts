@@ -1,0 +1,7 @@
+---
+info:
+  name: "The Legend of Zelda: Skyward Sword HD"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/Switch/Legend of Zelda, The - Skyward Sword HD/The Legend of Zelda Skyward Sword HD [01002DA013484000][v0].nsp"'
