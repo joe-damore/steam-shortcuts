@@ -1,0 +1,7 @@
+---
+info:
+  name: Donkey Kong Land
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/GB/Donkey Kong Land.gb"'
