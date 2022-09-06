@@ -1,0 +1,7 @@
+---
+info:
+  name: "The Legend of Zelda: Link's Awakening DX"
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/GBC/The Legend of Zelda - Link's Awakening DX.gb\""
