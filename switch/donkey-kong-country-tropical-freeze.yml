@@ -1,0 +1,7 @@
+---
+info:
+  name: "Donkey Kong Country: Tropical Freeze"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/Switch/Donkey Kong Country Tropical Freeze/Donkey Kong Country Tropical Freeze [0100C1F0051B6000][v0]"'
