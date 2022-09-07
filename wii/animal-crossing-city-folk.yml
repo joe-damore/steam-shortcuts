@@ -1,0 +1,7 @@
+---
+info:
+  name: "Animal Crossing: City Folk"
+
+exec:
+  extra_args:
+    - --exec "/home/deck/Games/Wii/Animal Crossing - City Folk.wbfs"

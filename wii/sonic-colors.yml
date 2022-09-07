@@ -1,0 +1,7 @@
+---
+info:
+  name: Sonic Colors
+
+exec:
+  extra_args:
+    - --exec "/home/deck/Games/Wii/Sonic Colors.wbfs"
