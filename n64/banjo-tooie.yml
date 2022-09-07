@@ -1,0 +1,7 @@
+---
+info:
+  name: Banjo-Tooie
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/N64/Banjo-Tooie.n64"'

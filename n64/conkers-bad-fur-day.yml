@@ -1,0 +1,7 @@
+---
+info:
+  name: Conker's Bad Fur Day
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/N64/Conker's Bad Fur Day.n64\""
