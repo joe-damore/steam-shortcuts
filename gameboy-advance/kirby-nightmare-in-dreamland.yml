@@ -1,0 +1,7 @@
+---
+info:
+  name: "Kirby: Nightmare in Dreamland"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/GBA/Kirby - Nightmare in Dreamland.gba"'

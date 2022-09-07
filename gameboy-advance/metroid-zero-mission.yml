@@ -1,0 +1,7 @@
+---
+info:
+  name: "Metroid: Zero Mission"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/GBA/Metroid - Zero Mission.gba"'
