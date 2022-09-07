@@ -1,0 +1,7 @@
+---
+info:
+  name: "Grand Theft Auto: Chinatown Wars"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/PSP/Grand Theft Auto - Chinatown Wars.iso"'
