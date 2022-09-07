@@ -7,7 +7,7 @@ exec:
   args:
     - /home/deck/.local/bin/gs-wrap
     - 768
-    - 720
+    - 672
     - "%command%"
     - run ca._0ldsk00l.Nestopia
 
