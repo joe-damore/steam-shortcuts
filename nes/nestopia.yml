@@ -4,3 +4,7 @@ info:
   hidden: true
   extra_categories:
     - Apps
+
+exec:
+  args:
+    - run ca._0ldsk00l.Nestopia

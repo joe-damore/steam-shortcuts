@@ -5,6 +5,10 @@ exec:
   cwd: /Users/deck
   bin: /usr/bin/flatpak
   args:
+    - /home/deck/.local/bin/gs-wrap
+    - 768
+    - 720
+    - "%command%"
     - run ca._0ldsk00l.Nestopia
 
 info:
