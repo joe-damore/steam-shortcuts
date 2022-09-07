@@ -1,0 +1,7 @@
+---
+info:
+  name: The Legend of Zelda
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/NES/The Legend of Zelda.nes"'

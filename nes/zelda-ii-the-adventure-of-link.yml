@@ -1,0 +1,7 @@
+---
+info:
+  name: "Zelda II: The Adventure of Link"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/NES/Zelda II - The Adventure of Link.nes"'
