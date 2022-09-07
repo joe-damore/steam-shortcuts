@@ -1,5 +1,6 @@
 ---
 info:
   name: Nestopia
+  hidden: true
   extra_categories:
     - Apps
