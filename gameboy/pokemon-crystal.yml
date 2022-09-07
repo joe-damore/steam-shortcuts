@@ -1,0 +1,7 @@
+---
+info:
+  name: Pokémon Crystal Version
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/GBC/Pokemon Crystal Version.gbc"'
