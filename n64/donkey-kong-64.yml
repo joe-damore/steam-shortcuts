@@ -1,0 +1,7 @@
+---
+info:
+  name: Donkey Kong 64
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/N64/Donkey Kong 64.n64\""
