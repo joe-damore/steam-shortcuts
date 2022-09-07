@@ -1,0 +1,7 @@
+---
+info:
+  name: "Mario Hoops 3-on-3"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/NDS/Mario Hoops 3 on 3.nds"'
