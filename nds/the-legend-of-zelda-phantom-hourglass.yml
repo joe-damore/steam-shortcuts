@@ -1,0 +1,7 @@
+---
+info:
+  name: "The Legend of Zelda: Phantom Hourglass"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/NDS/The Legend of Zelda - Phantom Hourglass.nds"'
