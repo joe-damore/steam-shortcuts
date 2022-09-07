@@ -1,0 +1,7 @@
+---
+info:
+  name: "Yoshi's Island DS"
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/NDS/Yoshi's Island DS.nds\""

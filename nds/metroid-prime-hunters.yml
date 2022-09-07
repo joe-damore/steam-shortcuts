@@ -1,0 +1,7 @@
+---
+info:
+  name: Metroid Prime Hunters
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/NDS/Metroid Prime Hunters.nds"'
