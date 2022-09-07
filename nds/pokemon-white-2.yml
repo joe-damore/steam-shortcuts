@@ -1,0 +1,7 @@
+---
+info:
+  name: Pokémon White Version 2
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/NDS/Pokemon White Version 2.nds"'

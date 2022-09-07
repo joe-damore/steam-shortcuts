@@ -1,0 +1,7 @@
+---
+info:
+  name: Pokémon Black Version 2
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/NDS/Pokemon Black Version 2.nds"'
