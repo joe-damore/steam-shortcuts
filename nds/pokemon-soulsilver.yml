@@ -1,0 +1,7 @@
+---
+info:
+  name: Pokémon SoulSilver Version
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/NDS/Pokemon SoulSilver Version.nds"'

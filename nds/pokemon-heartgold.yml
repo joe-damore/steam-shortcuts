@@ -1,0 +1,7 @@
+---
+info:
+  name: Pokémon HeartGold Version
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/NDS/Pokemon HeartGold Version.nds"'
