@@ -1,0 +1,7 @@
+---
+info:
+  name: Mega Man
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/NES/Mega Man.nes"'
