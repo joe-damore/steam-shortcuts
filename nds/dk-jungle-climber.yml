@@ -1,0 +1,7 @@
+---
+info:
+  name: "DK: Jungle Climber"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/NDS/DK - Jungle Climber.nds"'
