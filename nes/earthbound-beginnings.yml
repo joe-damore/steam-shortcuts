@@ -1,0 +1,7 @@
+---
+info:
+  name: "EarthBound Beginnings"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/NES/EarthBound Beginnings.nes"'
