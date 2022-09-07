@@ -1,0 +1,12 @@
+---
+schema: 1
+
+exec:
+  cwd: /Users/deck
+  bin: /usr/bin/flatpak
+  args:
+    - run ca._0ldsk00l.Nestopia
+
+info:
+  categories:
+    - Nintendo

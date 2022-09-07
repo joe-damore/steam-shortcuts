@@ -1,0 +1,7 @@
+---
+info:
+  name: Super Mario Bros. 2
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/NES/Super Mario Bros 2.nes"'
