@@ -1,0 +1,7 @@
+---
+info:
+  name: F-Zero
+
+exec:
+  extra_args:
+    - "/home/deck/Games/SNES/F-Zero.sfc"
