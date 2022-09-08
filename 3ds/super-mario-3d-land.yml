@@ -1,0 +1,7 @@
+---
+info:
+  name: Super Mario 3D Land
+
+exec:
+  extra_args:
+    - "/home/deck/Games/3DS/Super Mario 3D Land.3ds"
