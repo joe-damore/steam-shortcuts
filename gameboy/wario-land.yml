@@ -1,0 +1,7 @@
+---
+info:
+  name: "Wario Land: Super Mario Land 3"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/GB/Wario Land - Super Mario Land 3.gb"'
