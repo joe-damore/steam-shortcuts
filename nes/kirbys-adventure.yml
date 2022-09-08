@@ -1,0 +1,7 @@
+---
+info:
+  name: Kirby's Adventure
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/NES/Kirby's Adventure.nes"'
