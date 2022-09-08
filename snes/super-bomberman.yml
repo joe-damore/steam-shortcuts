@@ -1,0 +1,7 @@
+---
+info:
+  name: Super Bomberman
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/SNES/Super Bomberman.sfc\""
