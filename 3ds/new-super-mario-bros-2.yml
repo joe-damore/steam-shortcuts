@@ -1,0 +1,7 @@
+---
+info:
+  name: New Super Mario Bros. 2
+
+exec:
+  extra_args:
+    - "/home/deck/Games/3DS/New Super Mario Bros. 2.3ds"
