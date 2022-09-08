@@ -1,0 +1,7 @@
+---
+info:
+  name: "Super Mario Kart"
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/SNES/Super Mario Kart.sfc\""
