@@ -1,0 +1,14 @@
+---
+schema: 1
+
+exec:
+  cwd: /Users/deck
+  bin: /usr/bin/flatpak
+  args:
+    - run org.polymc.PolyMC
+
+info:
+  name: PolyMC Launcher
+  hidden: true
+  categories:
+    - Apps

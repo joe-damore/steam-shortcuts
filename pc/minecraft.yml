@@ -1,0 +1,12 @@
+---
+schema: 1
+
+info:
+  name: Minecraft
+
+# TODO Specify an instance ID to launch Minecraft directly
+exec:
+  cwd: /Users/deck
+  bin: /usr/bin/flatpak
+  args:
+    - run org.polymc.PolyMC
