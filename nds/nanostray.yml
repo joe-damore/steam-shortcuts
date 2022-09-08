@@ -1,0 +1,7 @@
+---
+info:
+  name: Nanostray
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/NDS/Nanostray.nds"'
