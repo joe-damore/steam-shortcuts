@@ -1,0 +1,7 @@
+---
+info:
+  name: "The Simpsons: Hit & Run"
+
+exec:
+  extra_args:
+    - --exec="/home/deck/Games/GameCube/The Simpsons - Hit & Run.iso"

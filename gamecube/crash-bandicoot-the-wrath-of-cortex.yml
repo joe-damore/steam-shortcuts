@@ -1,0 +1,7 @@
+---
+info:
+  name: "Crash Bandicoot: The Wrath of Cortex"
+
+exec:
+  extra_args:
+    - --exec="/home/deck/Games/GameCube/Crash Bandicoot - The Wrath of Cortex.iso"
