@@ -1,0 +1,7 @@
+---
+info:
+  name: Harry Potter and the Sorcerer's Stone
+
+exec:
+  extra_args:
+    - --exec="/home/deck/Games/GameCube/Harry Potter and the Sorcerer's Stone.iso"
