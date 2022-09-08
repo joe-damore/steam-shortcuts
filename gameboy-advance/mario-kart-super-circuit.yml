@@ -1,0 +1,7 @@
+---
+info:
+  name: "Mario Kart: Super Circuit"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/GBA/Mario Kart - Super Circuit.gba"'
