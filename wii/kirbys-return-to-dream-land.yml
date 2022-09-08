@@ -1,0 +1,7 @@
+---
+info:
+  name: Kirby's Return to Dream Land
+
+exec:
+  extra_args:
+    - --exec "/home/deck/Games/Wii/Kirby's Return to Dream Land.wbfs"
