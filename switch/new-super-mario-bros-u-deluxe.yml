@@ -1,0 +1,7 @@
+---
+info:
+  name: "New Super Mario Bros. U Deluxe"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/Switch/New Super Mario Bros. U Deluxe/NSMBUD_TorFiles_[v0].nsp"'

@@ -1,0 +1,7 @@
+---
+info:
+  name: "Pokémon: Let's Go, Pikachu!"
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/Switch/Pokemon Let's Go, Pikachu!/PKLGP.nsp\""
