@@ -1,0 +1,7 @@
+---
+info:
+  name: "Castlevania II: Simon's Quest"
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/NES/Castlevania II - Simon's Quest.nes\""

@@ -1,0 +1,7 @@
+---
+info:
+  name: "Castlevania"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/NES/Castlevania.nes"'

@@ -1,0 +1,7 @@
+---
+info:
+  name: "Castlevania III: Dracula's Curse"
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/NES/Castlevania III - Dracula's Curse.nes\""
