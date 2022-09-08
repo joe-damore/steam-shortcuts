@@ -1,0 +1,7 @@
+---
+info:
+  name: Chrono Trigger
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/SNES/Chrono Trigger.sfc\""
