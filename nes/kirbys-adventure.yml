@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/NES/Kirby's Adventure.nes"'
+    - "\"/home/deck/Games/NES/Kirby's Adventure.nes\""
