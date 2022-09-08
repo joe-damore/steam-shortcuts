@@ -1,0 +1,7 @@
+---
+info:
+  name: Wario World
+
+exec:
+  extra_args:
+    - --exec="/home/deck/Games/GameCube/Wario World.gcm"
