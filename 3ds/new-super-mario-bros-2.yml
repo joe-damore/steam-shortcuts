@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - "/home/deck/Games/3DS/New Super Mario Bros. 2.3ds"
+    - '"/home/deck/Games/3DS/New Super Mario Bros. 2.3ds"'
