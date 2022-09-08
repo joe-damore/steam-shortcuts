@@ -1,0 +1,7 @@
+---
+info:
+  name: Super Castlevania IV
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/SNES/Super Castlevania IV.sfc\""
