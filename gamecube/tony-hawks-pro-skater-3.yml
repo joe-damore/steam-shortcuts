@@ -1,0 +1,7 @@
+---
+info:
+  name: Tony Hawk's Pro Skater 3
+
+exec:
+  extra_args:
+    - --exec="/home/deck/Games/GameCube/Tony Hawk's Pro Skater 3.iso"
