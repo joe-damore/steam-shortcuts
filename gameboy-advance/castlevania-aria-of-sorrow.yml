@@ -1,0 +1,7 @@
+---
+info:
+  name: "Castlevania: Aria of Sorrow"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/GBA/Castlevania - Aria of Sorrow.gba"'
