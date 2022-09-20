@@ -1,0 +1,7 @@
+---
+info:
+  name: Golden Sun
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/GBA/Golden Sun.gba"'

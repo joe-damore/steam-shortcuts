@@ -1,0 +1,7 @@
+---
+info:
+  name: "Golden Sun: The Lost Age"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/GBA/Golden Sun 2 - The Lost Age.gba"'
