@@ -1,0 +1,7 @@
+---
+info:
+  name: "Ratchet: Deadlocked"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/PS2/Ratchet Deadlocked.iso"'
