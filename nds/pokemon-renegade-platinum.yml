@@ -1,0 +1,7 @@
+---
+info:
+  name: Pokémon Renegade Platinum Version
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/NDS/Pokemon Renegade Platinum.nds"'
