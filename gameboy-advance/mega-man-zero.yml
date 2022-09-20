@@ -1,0 +1,7 @@
+---
+info:
+  name: Mega Man Zero
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/GBA/Mega Man Zero.gba"'
