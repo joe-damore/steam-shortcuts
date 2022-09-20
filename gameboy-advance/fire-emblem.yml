@@ -1,0 +1,7 @@
+---
+info:
+  name: Fire Emblem
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/GBA/Fire Emblem.gba"'
