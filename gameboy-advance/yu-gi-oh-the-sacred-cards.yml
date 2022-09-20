@@ -1,0 +1,7 @@
+---
+info:
+  name: "Yu-Gi-Oh! The Sacred Cards"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/GBA/Yu-Gi-Oh! - The Sacred Cards.gba"'
