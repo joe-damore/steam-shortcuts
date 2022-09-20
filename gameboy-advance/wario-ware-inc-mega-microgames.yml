@@ -1,0 +1,7 @@
+---
+info:
+  name: "WarioWare, Inc: Mega Microgames!"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/GBA/WarioWare Inc.gba"'

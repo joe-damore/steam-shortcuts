@@ -1,0 +1,7 @@
+---
+info:
+  name: Wario Land 4
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/GBA/Wario Land 4.gba"'
