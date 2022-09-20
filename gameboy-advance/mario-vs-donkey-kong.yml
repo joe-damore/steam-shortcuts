@@ -1,0 +1,7 @@
+---
+info:
+  name: Mario vs. Donkey Kong
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/GBA/Mario vs. Donkey Kong.gba"'
