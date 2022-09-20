@@ -1,0 +1,7 @@
+---
+info:
+  name: "DK: King of Swing"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/GBA/DK - King of Swing.gba"'
