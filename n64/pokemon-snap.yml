@@ -1,0 +1,7 @@
+---
+info:
+  name: Pokémon Snap
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/N64/Pokemon Snap.n64"'

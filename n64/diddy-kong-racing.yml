@@ -1,0 +1,7 @@
+---
+info:
+  name: Diddy Kong Racing
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/N64/Diddy Kong Racing.n64\""

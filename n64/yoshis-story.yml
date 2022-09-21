@@ -1,0 +1,7 @@
+---
+info:
+  name: Yoshi's Story
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/N64/Yoshi's Story.n64\""

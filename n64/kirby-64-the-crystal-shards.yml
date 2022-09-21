@@ -1,0 +1,7 @@
+---
+info:
+  name: "Kirby 64: The Crystal Shards"
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/N64/Kirby 64 - The Crystal Shards.n64\""
