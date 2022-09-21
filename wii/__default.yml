@@ -5,6 +5,11 @@ exec:
   cwd: /Users/deck
   bin: /usr/bin/flatpak
   args:
+    - /home/deck/.local/bin/optimexec
+    - 1280
+    - 800
+    - 3
+    - "%command%"
     - run org.DolphinEmu.dolphin-emu
 
 info:
