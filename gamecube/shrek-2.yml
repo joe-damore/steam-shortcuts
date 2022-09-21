@@ -1,0 +1,7 @@
+---
+info:
+  name: Shrek 2
+
+exec:
+  extra_args:
+    - --exec="/home/deck/Games/GameCube/Shrek 2.iso"

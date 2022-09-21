@@ -1,0 +1,7 @@
+---
+info:
+  name: Metroid Prime
+
+exec:
+  extra_args:
+    - --exec="/home/deck/Games/GameCube/Metroid Prime.iso"

@@ -1,0 +1,7 @@
+---
+info:
+  name: "Metroid Prime 2: Echoes"
+
+exec:
+  extra_args:
+    - --exec="/home/deck/Games/GameCube/Metroid Prime 2 - Echoes.iso"
