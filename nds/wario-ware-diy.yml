@@ -1,0 +1,7 @@
+---
+info:
+  name: "WarioWare: D.I.Y."
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/NDS/WarioWare - DIY.nds"'

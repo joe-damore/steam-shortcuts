@@ -1,0 +1,7 @@
+---
+info:
+  name: "WarioWare: Touched!"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/NDS/WarioWare - Touched!.nds"'
