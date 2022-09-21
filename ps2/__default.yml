@@ -4,6 +4,12 @@ schema: 1
 exec:
   cwd: /Users/deck
   bin: /home/deck/.local/bin/pcsx2-launcher
+  args:
+    - /home/deck/.local/bin/optimexec
+    - 1280
+    - 800
+    - 5
+    - "%command%"
 
 info:
   categories:
