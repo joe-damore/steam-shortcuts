@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/PS2/Tony Hawk's Proving Ground.iso"'
+    - "\"/home/deck/Games/PS2/Tony Hawk's Proving Ground.iso\""
