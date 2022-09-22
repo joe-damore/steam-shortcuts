@@ -1,0 +1,7 @@
+---
+info:
+  name: The Incredibles
+
+exec:
+  extra_args:
+    - --exec="/home/deck/Games/GameCube/The Incredibles.iso"
