@@ -1,0 +1,7 @@
+---
+info:
+  name: Pikmin
+
+exec:
+  extra_args:
+    - --exec="/home/deck/Games/GameCube/Pikmin.iso"
