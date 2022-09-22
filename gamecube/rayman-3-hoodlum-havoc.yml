@@ -1,0 +1,7 @@
+---
+info:
+  name: "Rayman 3: Hoodlum Havoc"
+
+exec:
+  extra_args:
+    - --exec="/home/deck/Games/GameCube/Rayman 3 - Hoodlum Havoc.iso"
