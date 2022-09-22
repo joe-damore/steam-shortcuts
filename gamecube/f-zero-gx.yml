@@ -1,0 +1,7 @@
+---
+info:
+  name: "F-Zero GX"
+
+exec:
+  extra_args:
+    - --exec="/home/deck/Games/GameCube/F-Zero GX.iso"
