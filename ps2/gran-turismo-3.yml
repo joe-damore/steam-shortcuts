@@ -1,0 +1,7 @@
+---
+info:
+  name: "Gran Turismo 3: A-Spec"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/PS2/Gran Turismo 3 - A-Spec.iso"'
