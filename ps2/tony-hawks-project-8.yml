@@ -1,0 +1,7 @@
+---
+info:
+  name: "Tony Hawk's Project 8"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/PS2/Tony Hawk's Project 8.iso"'
