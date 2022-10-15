@@ -1,0 +1,10 @@
+---
+schema: 1
+
+info:
+  name: "Jak and Daxter: The Precursor Legacy"
+
+exec:
+  cwd: /Users/deck/Games/OpenGoal/jak-project
+  bin: /home/deck/Games/OpenGoal/jak-project/build/game/gk
+  args: []
