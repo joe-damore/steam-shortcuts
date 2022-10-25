@@ -5,10 +5,10 @@ exec:
   cwd: /Users/deck
   bin: /usr/bin/flatpak
   args:
-    - run org.polymc.PolyMC
+    - run org.prismlauncher.PrismLauncher
 
 info:
-  name: PolyMC Launcher
+  name: Prism Launcher
   hidden: true
   categories:
     - Apps

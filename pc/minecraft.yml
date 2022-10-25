@@ -9,4 +9,4 @@ exec:
   cwd: /Users/deck
   bin: /usr/bin/flatpak
   args:
-    - run org.polymc.PolyMC
+    - run org.prismlauncher.PrismLauncher
