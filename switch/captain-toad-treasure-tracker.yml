@@ -1,0 +1,7 @@
+---
+info:
+  name: "Captain Toad: Treasure Tracker"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/Switch/Captain Toad Treasure Tracker/Captain Toad Treasure Tracker.nsp"'
