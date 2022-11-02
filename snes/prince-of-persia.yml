@@ -1,0 +1,7 @@
+---
+info:
+  name: Prince of Persia
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/SNES/Prince of Persia.sfc\""
