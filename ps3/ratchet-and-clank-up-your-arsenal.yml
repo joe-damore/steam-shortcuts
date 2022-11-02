@@ -1,0 +1,7 @@
+---
+info:
+  name: "Ratchet & Clank: Up Your Arsenal"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/PS3/Ratchet & Clank Collection (USA) (En,Fr,Es)/PS3_GAME/USRDIR/RC3.ppu.self"'
