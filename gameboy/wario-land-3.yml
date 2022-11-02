@@ -1,0 +1,7 @@
+---
+info:
+  name: "Wario Land 3"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/GBC/Wario Land 3.gbc"'

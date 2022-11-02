@@ -1,0 +1,7 @@
+---
+info:
+  name: "The Legend of Zelda: Oracle of Ages"
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/GBC/The Legend of Zelda - Oracle of Ages.gbc\""

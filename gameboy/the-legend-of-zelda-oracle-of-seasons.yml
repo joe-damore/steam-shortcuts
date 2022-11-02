@@ -1,0 +1,7 @@
+---
+info:
+  name: "The Legend of Zelda: Oracle of Seasons"
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/GBC/The Legend of Zelda - Oracle of Seasons.gbc\""
