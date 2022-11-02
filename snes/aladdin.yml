@@ -1,0 +1,7 @@
+---
+info:
+  name: "Disney's Aladdin"
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/SNES/Aladdin.sfc\""

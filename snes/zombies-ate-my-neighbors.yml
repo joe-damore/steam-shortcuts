@@ -1,0 +1,7 @@
+---
+info:
+  name: "Zombies Ate My Neighbors"
+
+exec:
+  extra_args:
+    - "/home/deck/Games/SNES/Zombies Ate My Neighbors.sfc"
