@@ -1,0 +1,7 @@
+---
+info:
+  name: "Jak 3"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/PS3/Jak and Daxter Collection (USA) (En,Fr,Es)/PS3_GAME/USRDIR/Jak3.self"'
