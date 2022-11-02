@@ -1,0 +1,7 @@
+---
+info:
+  name: "Ratchet: Deadlocked"
+
+exec:
+  extra_args:
+    - '"/home/deck/.var/app/net.rpcs3.RPCS3/config/rpcs3/dev_hdd0/game/NPUA80646/USRIDR/EBOOT.BIN"'
