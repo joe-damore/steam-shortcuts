@@ -1,0 +1,8 @@
+---
+info:
+  name: "Ratchet & Clank: Going Commando HD"
+
+exec:
+  extra_args:
+    - '"/home/deck/.var/app/net.rpcs3.RPCS3/config/rpcs3/dev_hdd0/game/NPUA80644/USRDIR/EBOOT.BIN"'
+

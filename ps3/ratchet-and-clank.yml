@@ -1,0 +1,7 @@
+---
+info:
+  name: Ratchet & Clank HD
+
+exec:
+  extra_args:
+    - '"/home/deck/.var/app/net.rpcs3.RPCS3/config/rpcs3/dev_hdd0/game/NPUA80643/USRDIR/EBOOT.BIN"'
