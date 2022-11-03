@@ -1,0 +1,7 @@
+---
+info:
+  name: "Metroid Prime 3: Corruption"
+
+exec:
+  extra_args:
+    - --exec "/home/deck/Games/Wii/Metroid Prime 3 - Corruption.wbfs"

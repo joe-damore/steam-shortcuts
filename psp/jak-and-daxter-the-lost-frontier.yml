@@ -1,0 +1,7 @@
+---
+info:
+  name: "Jak and Daxter: The Lost Frontier"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/PSP/Jak and Daxter - The Lost Frontier.iso"'
