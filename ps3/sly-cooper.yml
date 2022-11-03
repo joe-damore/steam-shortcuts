@@ -1,0 +1,7 @@
+---
+info:
+  name: "Sly Cooper and the Thievius Raccoonus HD"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/PS3/Sly Collection, The (USA) (En,Fr,Es)/PS3_GAME/USRDIR/Sly1.self"'

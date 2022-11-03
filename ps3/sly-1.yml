@@ -1,7 +1,0 @@
----
-info:
-  name: Sly 1
-
-exec:
-  extra_args:
-    - '"/home/deck/Games/PS3/Sly Collection, The (USA) (En,Fr,Es)/PS3_GAME/USRDIR/Sly1.self"'
