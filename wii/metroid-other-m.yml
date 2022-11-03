@@ -1,0 +1,7 @@
+---
+info:
+  name: "Metroid: Other M"
+
+exec:
+  extra_args:
+    - --exec "/home/deck/Games/Wii/Metroid - Other M.wbfs"

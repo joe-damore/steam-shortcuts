@@ -1,0 +1,7 @@
+---
+info:
+  name: Star Fox Adventures
+
+exec:
+  extra_args:
+    - --exec="/home/deck/Games/GameCube/Star Fox Adventures.iso"
