@@ -1,0 +1,7 @@
+---
+info:
+  name: Mega Man 8
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/PS1/Mega Man 8 (USA).cue"'

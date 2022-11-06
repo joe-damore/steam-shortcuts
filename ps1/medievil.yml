@@ -1,0 +1,7 @@
+---
+info:
+  name: MediEvil
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/PS1/MediEvil (USA).cue"'

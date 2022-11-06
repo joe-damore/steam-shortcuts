@@ -1,0 +1,7 @@
+---
+info:
+  name: "Mega Man Legends 2"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/PS1/Mega Man Legends 2 (USA).cue"'

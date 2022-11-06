@@ -1,0 +1,7 @@
+---
+info:
+  name: "Yu-Gi-Oh! Forbidden Memories"
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/PS1/Yu-Gi-Oh! Forbidden Memories (USA).cue\""
