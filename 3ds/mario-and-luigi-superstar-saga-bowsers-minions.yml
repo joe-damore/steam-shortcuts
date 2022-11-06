@@ -1,0 +1,7 @@
+---
+info:
+  name: "Mario & Luigi: Superstar Saga + Bowser's Minions"
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/3DS/Mario and Luigi - Superstar Saga and Bowser's Minions.3ds\""
