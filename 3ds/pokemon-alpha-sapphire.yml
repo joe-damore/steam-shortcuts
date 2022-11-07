@@ -1,0 +1,7 @@
+---
+info:
+  name: "Pokemon Alpha Sapphire"
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/3DS/Pokemon Alpha Sapphire.3ds\""
