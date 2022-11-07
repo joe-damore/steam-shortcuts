@@ -9,6 +9,7 @@ exec:
     - 1280
     - 800
     - 3
+    - off
     - "%command%"
     - run org.DolphinEmu.dolphin-emu
 
