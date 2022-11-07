@@ -1,0 +1,7 @@
+---
+info:
+  name: Pokémon X
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/3DS/Pokemon X.3ds\""

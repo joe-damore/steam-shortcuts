@@ -1,0 +1,7 @@
+---
+info:
+  name: Pokémon Sun
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/3DS/Pokemon Sun.3ds\""

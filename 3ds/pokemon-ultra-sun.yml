@@ -1,0 +1,7 @@
+---
+info:
+  name: Pokémon Ultra Sun
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/3DS/Pokemon Ultra Sun.3ds\""
