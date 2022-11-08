@@ -1,0 +1,7 @@
+---
+info:
+  name: Mega Man X4
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/PS1/Mega Man X4 (USA).cue"'
