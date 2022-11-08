@@ -5,6 +5,11 @@ exec:
   cwd: /Users/deck
   bin: /usr/bin/flatpak
   args:
+    - /home/deck/.local/bin/optimexec
+    - 1280
+    - 800
+    - off
+    - "%command%"
     - run net.rpcs3.RPCS3
 
 info:

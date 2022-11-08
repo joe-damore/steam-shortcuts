@@ -8,7 +8,7 @@ exec:
     - /home/deck/.local/bin/optimexec
     - 1280
     - 800
-    - 5
+    - off
     - "%command%"
 
 info:
