@@ -8,7 +8,7 @@ exec:
     - /home/deck/.local/bin/optimexec
     - 1280
     - 800
-    - off
+    - delay
     - "%command%"
     - run org.yuzu_emu.yuzu
     - "-f"
