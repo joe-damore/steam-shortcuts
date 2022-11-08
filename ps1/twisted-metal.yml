@@ -1,0 +1,7 @@
+---
+info:
+  name: Twisted Metal
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/PS1/Twisted Metal (USA).cue\""
