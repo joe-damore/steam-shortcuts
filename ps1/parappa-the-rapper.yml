@@ -1,0 +1,7 @@
+---
+info:
+  name: PaRappa the Rapper
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/PS1/PaRappa the Rapper (USA).cue"'
