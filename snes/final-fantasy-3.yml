@@ -1,0 +1,7 @@
+---
+info:
+  name: Final Fantasy III
+
+exec:
+  extra_args:
+    - "/home/deck/Games/SNES/Final Fantasy III.sfc"

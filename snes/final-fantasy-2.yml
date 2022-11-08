@@ -1,0 +1,7 @@
+---
+info:
+  name: Final Fantasy II
+
+exec:
+  extra_args:
+    - "/home/deck/Games/SNES/Final Fantasy II.sfc"
