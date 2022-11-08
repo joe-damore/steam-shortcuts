@@ -1,0 +1,7 @@
+---
+info:
+  name: Mega Man X
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/SNES/Mega Man X.sfc\""
