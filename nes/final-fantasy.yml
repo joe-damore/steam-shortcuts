@@ -1,0 +1,7 @@
+---
+info:
+  name: Final Fantasy
+
+exec:
+  extra_args:
+    - "/home/deck/Games/NES/Final Fantasy.nes"
