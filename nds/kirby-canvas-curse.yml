@@ -1,0 +1,7 @@
+---
+info:
+  name: "Kirby: Canvas Curse"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/NDS/Kirby - Canvas Curse.nds"'

@@ -1,0 +1,7 @@
+---
+info:
+  name: "Kirby: Squeak Squad"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/NDS/Kirby - Squeak Squad.nds"'

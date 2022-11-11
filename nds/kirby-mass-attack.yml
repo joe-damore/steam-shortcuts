@@ -1,0 +1,7 @@
+---
+info:
+  name: "Kirby Mass Attack"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/NDS/Kirby Mass Attack.nds"'

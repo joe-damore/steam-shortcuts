@@ -1,0 +1,7 @@
+---
+info:
+  name: Kirby Super Star Ultra
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/NDS/Kirby Super Star Ultra.nds"'
