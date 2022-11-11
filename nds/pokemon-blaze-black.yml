@@ -1,0 +1,7 @@
+---
+info:
+  name: Pokémon Blaze Black Version
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/NDS/Pokemon Blaze Black.nds"'

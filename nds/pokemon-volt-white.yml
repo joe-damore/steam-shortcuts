@@ -1,0 +1,7 @@
+---
+info:
+  name: Pokémon Volt White Version
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/NDS/Pokemon Volt White.nds"'
