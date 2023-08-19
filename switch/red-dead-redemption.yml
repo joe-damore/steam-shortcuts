@@ -1,0 +1,7 @@
+---
+info:
+  name: "Red Dead Redemption"
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/Switch/Red Dead Redemption/Red Dead Redemption [01007820196A6000][v0][US].nsp\""
