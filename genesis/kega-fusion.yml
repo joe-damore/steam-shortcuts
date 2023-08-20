@@ -1,0 +1,10 @@
+---
+info:
+  name: Kega Fusion
+  hidden: true
+  extra_categories:
+    - Apps
+
+exec:
+  args:
+    - run com.carpeludum.KegaFusion

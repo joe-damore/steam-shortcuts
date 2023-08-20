@@ -1,0 +1,17 @@
+---
+schema: 1
+
+exec:
+  cwd: /Users/deck
+  bin: /usr/bin/flatpak
+  args:
+    - /home/deck/.local/bin/optimexec
+    - 1280
+    - 800
+    - off
+    - "%command%"
+    - run com.carpeludum.KegaFusion
+
+info:
+  categories:
+    - Sega Genesis
