@@ -1,0 +1,7 @@
+---
+info:
+  name: "The Legend of Zelda: Tears of the Kingdom"
+
+exec:
+  extra_args:
+    - '"/home/deck/Games/Switch/Legend of Zelda, The - Tears of the Kingdom/The Legend of Zelda Tears of the Kingdom [0100F2C0115B6000][v0][US].nsp"'
