@@ -1,0 +1,7 @@
+---
+info:
+  name: "Pac-Man World 3"
+
+exec:
+  extra_args:
+    - --exec="/home/deck/Games/GameCube/Pac-Man World 3.iso"
