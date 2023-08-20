@@ -1,0 +1,7 @@
+---
+info:
+  name: "Luigi's Mansion: Dark Moon"
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/3DS/Luigi's Mansion - Dark Moon.3ds\""

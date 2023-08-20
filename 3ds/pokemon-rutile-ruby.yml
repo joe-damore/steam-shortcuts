@@ -1,0 +1,7 @@
+---
+info:
+  name: Pokémon Rutile Ruby
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/3DS/Pokemon Rutile Ruby 679.cia\""
