@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - "\"/home/deck/.var/app/org.citra_emu.citra/data/citra-emu/sdmc/Nintendo%203DS/00000000000000000000000000000000/00000000000000000000000000000000/title/00040000/0011c400/content/78ca25a6.app\""
+    - "\"/home/deck/.var/app/org.citra_emu.citra/data/citra-emu/sdmc/Nintendo 3DS/00000000000000000000000000000000/00000000000000000000000000000000/title/00040000/0011c400/content/78ca25a6.app\""
