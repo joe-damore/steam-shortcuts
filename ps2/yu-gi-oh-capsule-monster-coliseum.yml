@@ -1,0 +1,7 @@
+---
+info:
+  name: "Yu-Gi-Oh! Capsule Monster Coliseum"
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/PS2/Yu-Gi-Oh! Capsule Monster Coliseum.iso\""
