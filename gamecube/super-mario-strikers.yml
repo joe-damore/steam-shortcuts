@@ -1,0 +1,7 @@
+---
+info:
+  name: Super Mario Strikers
+
+exec:
+  extra_args:
+    - --exec="/home/deck/Games/GameCube/Super Mario Strikers.iso"
