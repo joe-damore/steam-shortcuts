@@ -4,7 +4,7 @@ info:
 
 exec:
   cwd: /Users/deck
-  bin: /Users/deck/Citra/citra-qt.AppImage
+  bin: /home/deck/Citra/citra-qt.AppImage
   args:
     - /home/deck/.local/bin/optimexec
     - 1280
