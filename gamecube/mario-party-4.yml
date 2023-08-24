@@ -1,0 +1,7 @@
+---
+info:
+  name: "Mario Party 4"
+
+exec:
+  extra_args:
+    - --exec="/home/deck/Games/GameCube/Mario Party 4.iso"
