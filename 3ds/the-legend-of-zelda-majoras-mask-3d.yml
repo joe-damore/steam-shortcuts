@@ -1,0 +1,7 @@
+---
+info:
+  name: "The Legend of Zelda: Majora's Mask 3D"
+
+exec:
+  extra_args:
+    - "\"/home/deck/Games/3DS/The Legend of Zelda - Majora's Mask 3D.3ds\""
