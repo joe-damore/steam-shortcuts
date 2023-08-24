@@ -3,7 +3,7 @@ info:
   name: Pokémon Rutile Ruby
 
 exec:
-  cwd: /Users/deck
+  cwd: /home/deck
   bin: /home/deck/Citra/citra-qt.AppImage
   args:
     - /home/deck/.local/bin/optimexec
