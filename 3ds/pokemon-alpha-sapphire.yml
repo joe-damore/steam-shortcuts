@@ -3,5 +3,13 @@ info:
   name: Pokémon Alpha Sapphire
 
 exec:
+  cwd: /home/deck
+  bin: /home/deck/Citra/citra-qt.AppImage
+  args:
+    - /home/deck/.local/bin/optimexec
+    - 1280
+    - 800
+    - off
+    - "%command%"
   extra_args:
     - "\"/home/deck/Games/3DS/Pokemon Alpha Sapphire.3ds\""
