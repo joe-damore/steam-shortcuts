@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - "\"/home/deck/Games/GBC/The Legend of Zelda - Oracle of Seasons.gbc\""
+    - "\"/run/media/deck/SteamSD1/ROMs/GBC/The Legend of Zelda - Oracle of Seasons.gbc\""

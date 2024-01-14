@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - "\"/home/deck/Games/GB/Kirby's Dream Land.gb\""
+    - "\"/run/media/deck/SteamSD1/ROMs/GB/Kirby's Dream Land.gb\""

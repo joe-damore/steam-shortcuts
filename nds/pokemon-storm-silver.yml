@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/NDS/Pokemon Storm Silver (Clean Edition).nds"'
+    - '"/run/media/deck/SteamSD1/ROMs/NDS/Pokemon Storm Silver (Clean Edition).nds"'

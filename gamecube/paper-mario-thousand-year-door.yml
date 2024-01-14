@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - --exec="/home/deck/Games/GameCube/Paper Mario - The Thousand-Year Door.iso"
+    - --exec="/run/media/deck/SteamSD1/ROMs/GameCube/Paper Mario - The Thousand-Year Door.iso"

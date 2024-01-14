@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/NDS/Super Mario 64 DS.nds"'
+    - '"/run/media/deck/SteamSD1/ROMs/NDS/Super Mario 64 DS.nds"'

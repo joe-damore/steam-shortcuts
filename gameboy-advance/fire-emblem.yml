@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/GBA/Fire Emblem.gba"'
+    - '"/run/media/deck/SteamSD1/ROMs/GBA/Fire Emblem.gba"'

@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - "\"/home/deck/Games/SNES/Mega Man X2.sfc\""
+    - "\"/run/media/deck/SteamSD1/ROMs/SNES/Mega Man X2.sfc\""

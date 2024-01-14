@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/GB/Wario Land - Super Mario Land 3.gb"'
+    - '"/run/media/deck/SteamSD1/ROMs/GB/Wario Land - Super Mario Land 3.gb"'

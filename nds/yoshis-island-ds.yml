@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - "\"/home/deck/Games/NDS/Yoshi's Island DS.nds\""
+    - "\"/run/media/deck/SteamSD1/ROMs/NDS/Yoshi's Island DS.nds\""

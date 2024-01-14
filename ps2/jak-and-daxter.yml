@@ -6,5 +6,5 @@ info:
 
 exec:
   cwd: /Users/deck/Games/Other/jak1
-  bin: /home/deck/Games/Other/jark1/gk
+  bin: /run/media/deck/SteamSD1/ROMs/Other/jark1/gk
   args: []

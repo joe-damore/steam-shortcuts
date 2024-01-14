@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/GBA/DK - King of Swing.gba"'
+    - '"/run/media/deck/SteamSD1/ROMs/GBA/DK - King of Swing.gba"'

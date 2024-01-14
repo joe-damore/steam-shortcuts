@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/GB/Donkey Kong Land.gb"'
+    - '"/run/media/deck/SteamSD1/ROMs/GB/Donkey Kong Land.gb"'

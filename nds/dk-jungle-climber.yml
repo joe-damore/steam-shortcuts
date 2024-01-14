@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/NDS/DK - Jungle Climber.nds"'
+    - '"/run/media/deck/SteamSD1/ROMs/NDS/DK - Jungle Climber.nds"'

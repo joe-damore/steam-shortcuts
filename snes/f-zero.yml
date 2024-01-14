@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - "/home/deck/Games/SNES/F-Zero.sfc"
+    - "/run/media/deck/SteamSD1/ROMs/SNES/F-Zero.sfc"

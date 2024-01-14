@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - "\"/home/deck/Games/SNES/Donkey Kong Country 2 - Diddy's Kong Quest.sfc\""
+    - "\"/run/media/deck/SteamSD1/ROMs/SNES/Donkey Kong Country 2 - Diddy's Kong Quest.sfc\""

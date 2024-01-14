@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/PS1/Mega Man X6 (USA) (Rev 1).cue"'
+    - '"/run/media/deck/SteamSD1/ROMs/PS1/Mega Man X6 (USA) (Rev 1).cue"'

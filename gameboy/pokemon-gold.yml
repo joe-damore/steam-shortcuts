@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/GBC/Pokemon Gold Version.gbc"'
+    - '"/run/media/deck/SteamSD1/ROMs/GBC/Pokemon Gold Version.gbc"'

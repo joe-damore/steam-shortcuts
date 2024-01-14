@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - "/home/deck/Games/SNES/Zombies Ate My Neighbors.sfc"
+    - "/run/media/deck/SteamSD1/ROMs/SNES/Zombies Ate My Neighbors.sfc"

@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/GB/Pokemon Red Version.gb"'
+    - '"/run/media/deck/SteamSD1/ROMs/GB/Pokemon Red Version.gb"'

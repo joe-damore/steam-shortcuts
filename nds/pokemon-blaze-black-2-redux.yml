@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/NDS/Pokemon Blaze Black 2 Redux (Classic Edition).nds"'
+    - '"/run/media/deck/SteamSD1/ROMs/NDS/Pokemon Blaze Black 2 Redux (Classic Edition).nds"'

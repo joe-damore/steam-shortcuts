@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/GBA/Kirby - Nightmare in Dreamland.gba"'
+    - '"/run/media/deck/SteamSD1/ROMs/GBA/Kirby - Nightmare in Dreamland.gba"'

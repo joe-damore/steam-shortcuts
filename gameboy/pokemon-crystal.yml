@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/GBC/Pokemon Crystal Version.gbc"'
+    - '"/run/media/deck/SteamSD1/ROMs/GBC/Pokemon Crystal Version.gbc"'

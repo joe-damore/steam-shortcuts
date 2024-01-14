@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - --exec="/home/deck/Games/GameCube/The Incredibles.iso"
+    - --exec="/run/media/deck/SteamSD1/ROMs/GameCube/The Incredibles.iso"

@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - "\"/home/deck/Games/N64/Diddy Kong Racing.n64\""
+    - "\"/run/media/deck/SteamSD1/ROMs/N64/Diddy Kong Racing.n64\""

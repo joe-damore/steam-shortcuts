@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/GBA/Golden Sun.gba"'
+    - '"/run/media/deck/SteamSD1/ROMs/GBA/Golden Sun.gba"'

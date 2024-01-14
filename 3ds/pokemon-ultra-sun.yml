@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - "\"/home/deck/Games/3DS/Pokemon Ultra Sun.3ds\""
+    - "\"/run/media/deck/SteamSD1/ROMs/Pokemon Ultra Sun.3ds\""

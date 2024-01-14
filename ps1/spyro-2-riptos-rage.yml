@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - "\"/home/deck/Games/PS1/Spyro 2 - Ripto's Rage! (USA).bin\""
+    - "\"/run/media/deck/SteamSD1/ROMs/PS1/Spyro 2 - Ripto's Rage! (USA).bin\""

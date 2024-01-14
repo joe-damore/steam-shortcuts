@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - "\"/home/deck/Games/GBC/The Legend of Zelda - Link's Awakening DX.gbc\""
+    - "\"/run/media/deck/SteamSD1/ROMs/The Legend of Zelda - Link's Awakening DX.gbc\""

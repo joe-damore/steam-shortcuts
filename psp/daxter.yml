@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/PSP/Daxter.iso"'
+    - '"/run/media/deck/SteamSD1/ROMs/PSP/Daxter.iso"'

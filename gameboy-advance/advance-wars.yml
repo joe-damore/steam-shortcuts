@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/GBA/Advance Wars.gba"'
+    - '"/run/media/deck/SteamSD1/ROMs/GBA/Advance Wars.gba"'

@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - "/home/deck/Games/SNES/Final Fantasy II.sfc"
+    - "/run/media/deck/SteamSD1/ROMs/SNES/Final Fantasy II.sfc"

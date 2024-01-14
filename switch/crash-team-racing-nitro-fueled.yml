@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/Switch/Crash Team Racing Nitro-Fueled/Crash Team Racing Nitro-Fueled [0100F9F00C696000][v0].nsp"'
+    - '"/run/media/deck/SteamSD1/ROMs/Switch/Crash Team Racing Nitro-Fueled/Crash Team Racing Nitro-Fueled [0100F9F00C696000][v0].nsp"'

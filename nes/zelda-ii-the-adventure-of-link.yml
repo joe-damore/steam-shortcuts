@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/NES/Zelda II - The Adventure of Link.nes"'
+    - '"/run/media/deck/SteamSD1/ROMs/NES/Zelda II - The Adventure of Link.nes"'

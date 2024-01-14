@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/GBA/Castlevania - Aria of Sorrow.gba"'
+    - '"/run/media/deck/SteamSD1/ROMs/GBA/Castlevania - Aria of Sorrow.gba"'

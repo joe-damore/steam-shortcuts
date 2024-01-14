@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - "\"/home/deck/Games/Switch/Legend of Zelda, The - Breath of the Wild/The Legend of Zelda Breath of the Wild.nsp\""
+    - "\"/run/media/deck/SteamSD1/ROMs/Switch/Legend of Zelda, The - Breath of the Wild/The Legend of Zelda Breath of the Wild.nsp\""

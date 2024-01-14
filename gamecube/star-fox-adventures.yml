@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - --exec="/home/deck/Games/GameCube/Star Fox Adventures.iso"
+    - --exec="/run/media/deck/SteamSD1/ROMs/GameCube/Star Fox Adventures.iso"

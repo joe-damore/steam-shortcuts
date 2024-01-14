@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/NES/Super Mario Bros 2.nes"'
+    - '"/run/media/deck/SteamSD1/ROMs/NES/Super Mario Bros 2.nes"'

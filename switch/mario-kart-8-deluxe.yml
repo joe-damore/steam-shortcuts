@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/Switch/Mario Kart 8 Deluxe/Mario Kart 8 Deluxe.nsp"'
+    - '"/run/media/deck/SteamSD1/ROMs/Switch/Mario Kart 8 Deluxe/Mario Kart 8 Deluxe.nsp"'

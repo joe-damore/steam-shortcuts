@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - --exec "/home/deck/Games/Wii/Super Mario Galaxy 2.wbfs"
+    - --exec "/run/media/deck/SteamSD1/ROMs/Wii/Super Mario Galaxy 2.wbfs"

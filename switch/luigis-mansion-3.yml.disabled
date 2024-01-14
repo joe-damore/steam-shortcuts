@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/Switch/Luigis Mansion 3/Luigis Mansion 3 [0100DCA0064A6800]Switch-xci.com[v0].nsp"'
+    - '"/run/media/deck/SteamSD1/ROMs/Switch/Luigis Mansion 3/Luigis Mansion 3 [0100DCA0064A6800]Switch-xci.com[v0].nsp"'

@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - "\"/home/deck/Games/Switch/Legend of Zelda, The - Link's Awakening/The Legend of Zelda Links Awakening [01006BB00C6F0000][v0].nsp\""
+    - "\"/run/media/deck/SteamSD1/ROMs/Switch/Legend of Zelda, The - Link's Awakening/The Legend of Zelda Links Awakening [01006BB00C6F0000][v0].nsp\""

@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - --exec "/home/deck/Games/Wii/Super Paper Mario.wbfs"
+    - --exec "/run/media/deck/SteamSD1/ROMs/Wii/Super Paper Mario.wbfs"

@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/NDS/Kirby Super Star Ultra.nds"'
+    - '"/run/media/deck/SteamSD1/ROMs/NDS/Kirby Super Star Ultra.nds"'

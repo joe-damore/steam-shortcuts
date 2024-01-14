@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - "\"/home/deck/Games/N64/Donkey Kong 64.n64\""
+    - "\"/run/media/deck/SteamSD1/ROMs/N64/Donkey Kong 64.n64\""

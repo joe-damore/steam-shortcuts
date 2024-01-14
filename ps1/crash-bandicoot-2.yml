@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/PS1/Crash Bandicoot 2- Cortex Strikes Back (USA).bin"'
+    - '"/run/media/deck/SteamSD1/ROMs/PS1/Crash Bandicoot 2- Cortex Strikes Back (USA).bin"'

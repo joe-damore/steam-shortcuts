@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - --exec="/home/deck/Games/GameCube/Super Mario Strikers.iso"
+    - --exec="/run/media/deck/SteamSD1/ROMs/GameCube/Super Mario Strikers.iso"

@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - --exec "/home/deck/Games/Wii/Metroid Prime 3 - Corruption.wbfs"
+    - --exec "/run/media/deck/SteamSD1/ROMs/Wii/Metroid Prime 3 - Corruption.wbfs"

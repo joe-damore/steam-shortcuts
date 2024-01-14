@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/NDS/Pokemon Platinum Version.nds"'
+    - '"/run/media/deck/SteamSD1/ROMs/NDS/Pokemon Platinum Version.nds"'

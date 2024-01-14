@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/GBA/Mega Man Zero.gba"'
+    - '"/run/media/deck/SteamSD1/ROMs/GBA/Mega Man Zero.gba"'

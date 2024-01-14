@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/GBA/Mario and Luigi - Superstar Saga.gba"'
+    - '"/run/media/deck/SteamSD1/ROMs/GBA/Mario and Luigi - Superstar Saga.gba"'

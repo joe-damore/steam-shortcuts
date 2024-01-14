@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - --exec "/home/deck/Games/Wii/Metroid - Other M.wbfs"
+    - --exec "/run/media/deck/SteamSD1/ROMs/Wii/Metroid - Other M.wbfs"

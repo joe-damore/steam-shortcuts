@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - --exec "/home/deck/Games/Wii/Mario Kart Wii - Wiimmfii.wbfs"
+    - --exec "/run/media/deck/SteamSD1/ROMs/Wii/Mario Kart Wii - Wiimmfii.wbfs"

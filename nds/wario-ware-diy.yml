@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/NDS/WarioWare - DIY.nds"'
+    - '"/run/media/deck/SteamSD1/ROMs/NDS/WarioWare - DIY.nds"'

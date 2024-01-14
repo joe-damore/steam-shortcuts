@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - "\"/home/deck/Games/Switch/Red Dead Redemption/Red Dead Redemption [01007820196A6000][v0][US].nsp\""
+    - "\"/run/media/deck/SteamSD1/ROMs/Switch/Red Dead Redemption/Red Dead Redemption [01007820196A6000][v0][US].nsp\""

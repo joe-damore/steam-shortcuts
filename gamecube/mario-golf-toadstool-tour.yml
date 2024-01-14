@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - --exec="/home/deck/Games/GameCube/Mario Golf - Toadstool Tour.gcm"
+    - --exec="/run/media/deck/SteamSD1/ROMs/GameCube/Mario Golf - Toadstool Tour.gcm"

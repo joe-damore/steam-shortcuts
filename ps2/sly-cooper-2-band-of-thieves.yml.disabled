@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/PS2/Sly 2 - Band of Thieves.iso"'
+    - '"/run/media/deck/SteamSD1/ROMs/PS2/Sly 2 - Band of Thieves.iso"'

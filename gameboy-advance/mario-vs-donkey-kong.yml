@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/GBA/Mario vs. Donkey Kong.gba"'
+    - '"/run/media/deck/SteamSD1/ROMs/GBA/Mario vs. Donkey Kong.gba"'

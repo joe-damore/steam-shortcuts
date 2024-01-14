@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - --exec="/home/deck/Games/GameCube/Crash Bandicoot - The Wrath of Cortex.iso"
+    - --exec="/run/media/deck/SteamSD1/ROMs/GameCube/Crash Bandicoot - The Wrath of Cortex.iso"

@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/3DS/The Legend of Zelda - A Link Between Worlds.3ds"'
+    - '"/run/media/deck/SteamSD1/ROMs/3DS/The Legend of Zelda - A Link Between Worlds.3ds"'

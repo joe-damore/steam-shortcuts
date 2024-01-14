@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/GBA/Yu-Gi-Oh! - The Sacred Cards.gba"'
+    - '"/run/media/deck/SteamSD1/ROMs/GBA/Yu-Gi-Oh! - The Sacred Cards.gba"'

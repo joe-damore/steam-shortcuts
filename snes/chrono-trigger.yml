@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - "\"/home/deck/Games/SNES/Chrono Trigger.sfc\""
+    - "\"/run/media/deck/SteamSD1/ROMs/SNES/Chrono Trigger.sfc\""

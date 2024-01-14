@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/GBA/Mother 3.gba"'
+    - '"/run/media/deck/SteamSD1/ROMs/GBA/Mother 3.gba"'

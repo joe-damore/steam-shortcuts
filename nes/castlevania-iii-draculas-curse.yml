@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - "\"/home/deck/Games/NES/Castlevania III - Dracula's Curse.nes\""
+    - "\"/run/media/deck/SteamSD1/ROMs/NES/Castlevania III - Dracula's Curse.nes\""

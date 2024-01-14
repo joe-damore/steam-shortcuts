@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - --exec "/home/deck/Games/Wii/Donkey Kong Country Returns.wbfs"
+    - --exec "/run/media/deck/SteamSD1/ROMs/Wii/Donkey Kong Country Returns.wbfs"

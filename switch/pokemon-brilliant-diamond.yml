@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - "\"/home/deck/Games/Switch/Pokemon Brilliant Diamond/Pokemon Brilliant Diamond [0100000011D90000][v0](eShop).nsp\""
+    - "\"/run/media/deck/SteamSD1/ROMs/Switch/Pokemon Brilliant Diamond/Pokemon Brilliant Diamond [0100000011D90000][v0](eShop).nsp\""

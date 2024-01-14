@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - --exec="/home/deck/Games/GameCube/Tony Hawk's Pro Skater 4.iso"
+    - --exec="/run/media/deck/SteamSD1/ROMs/GameCube/Tony Hawk's Pro Skater 4.iso"

@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - --exec "/home/deck/Games/Wii/Kirby's Return to Dream Land.wbfs"
+    - --exec "/run/media/deck/SteamSD1/ROMs/Wii/Kirby's Return to Dream Land.wbfs"

@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - "\"/home/deck/Games/PS2/Tony Hawk's Project 8.iso\""
+    - "\"/run/media/deck/SteamSD1/ROMs/PS2/Tony Hawk's Project 8.iso\""

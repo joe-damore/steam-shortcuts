@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - "\"/home/deck/Games/Switch/Super Mario Odyssey/Super Mario Odyssey.nsp\""
+    - "\"/run/media/deck/SteamSD1/ROMs/Switch/Super Mario Odyssey/Super Mario Odyssey.nsp\""

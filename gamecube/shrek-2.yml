@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - --exec="/home/deck/Games/GameCube/Shrek 2.iso"
+    - --exec="/run/media/deck/SteamSD1/ROMs/GameCube/Shrek 2.iso"

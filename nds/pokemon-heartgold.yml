@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/NDS/Pokemon HeartGold Version.nds"'
+    - '"/run/media/deck/SteamSD1/ROMs/NDS/Pokemon HeartGold Version.nds"'

@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/PSP/Jak and Daxter - The Lost Frontier.iso"'
+    - '"/run/media/deck/SteamSD1/ROMs/PSP/Jak and Daxter - The Lost Frontier.iso"'

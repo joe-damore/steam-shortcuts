@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/GBA/Advance Wars 2 - Black Hole Rising.gba"'
+    - '"/run/media/deck/SteamSD1/ROMs/GBA/Advance Wars 2 - Black Hole Rising.gba"'

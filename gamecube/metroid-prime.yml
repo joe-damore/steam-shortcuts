@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - --exec="/home/deck/Games/GameCube/Metroid Prime.iso"
+    - --exec="/run/media/deck/SteamSD1/ROMs/GameCube/Metroid Prime.iso"

@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - "\"/home/deck/Games/PS1/Tony Hawk's Pro Skater (USA).bin\""
+    - "\"/run/media/deck/SteamSD1/ROMs/PS1/Tony Hawk's Pro Skater (USA).bin\""

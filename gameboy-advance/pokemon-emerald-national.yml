@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/GBA/Pokemon Emerald Version National Full.gba"'
+    - '"/run/media/deck/SteamSD1/ROMs/GBA/Pokemon Emerald Version National Full.gba"'

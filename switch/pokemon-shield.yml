@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - "\"/home/deck/Games/Switch/Pokemon Shield/Pokemon Shield [01008DB008C2C000][US][v0](nsw2u).nsp\""
+    - "\"/run/media/deck/SteamSD1/ROMs/Switch/Pokemon Shield/Pokemon Shield [01008DB008C2C000][US][v0](nsw2u).nsp\""

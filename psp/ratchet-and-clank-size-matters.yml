@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/PSP/Ratchet & Clank - Size Matters.iso"'
+    - '"/run/media/deck/SteamSD1/ROMs/PSP/Ratchet & Clank - Size Matters.iso"'

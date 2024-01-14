@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/GBA/The Legend of Zelda - The Minish Cap.gba"'
+    - '"/run/media/deck/SteamSD1/ROMs/GBA/The Legend of Zelda - The Minish Cap.gba"'

@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/NDS/WarioWare - Touched!.nds"'
+    - '"/run/media/deck/SteamSD1/ROMs/NDS/WarioWare - Touched!.nds"'

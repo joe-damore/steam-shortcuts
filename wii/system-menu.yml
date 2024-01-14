@@ -5,4 +5,4 @@ info:
 
 exec:
   extra_args:
-    - --exec "/home/deck/Games/Wii/Wads/System Menu.wad"
+    - --exec "/run/media/deck/SteamSD1/ROMs/Wii/Wads/System Menu.wad"

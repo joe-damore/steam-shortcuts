@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - "\"/home/deck/Games/SNES/Kirby Super Star.sfc\""
+    - "\"/run/media/deck/SteamSD1/ROMs/SNES/Kirby Super Star.sfc\""

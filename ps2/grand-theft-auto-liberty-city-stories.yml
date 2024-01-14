@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/PS2/Grand Theft Auto - Liberty City Stories.iso"'
+    - '"/run/media/deck/SteamSD1/ROMs/PS2/Grand Theft Auto - Liberty City Stories.iso"'

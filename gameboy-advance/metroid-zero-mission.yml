@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - '"/home/deck/Games/GBA/Metroid - Zero Mission.gba"'
+    - '"/run/media/deck/SteamSD1/ROMs/GBA/Metroid - Zero Mission.gba"'

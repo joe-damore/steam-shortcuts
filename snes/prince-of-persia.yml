@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - "\"/home/deck/Games/SNES/Prince of Persia.sfc\""
+    - "\"/run/media/deck/SteamSD1/ROMs/SNES/Prince of Persia.sfc\""

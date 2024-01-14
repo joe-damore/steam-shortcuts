@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - "\"/home/deck/Games/PS1/Spyro - Year of the Dragon (USA) (Rev 1).bin\""
+    - "\"/run/media/deck/SteamSD1/ROMs/PS1/Spyro - Year of the Dragon (USA) (Rev 1).bin\""

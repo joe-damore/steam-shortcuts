@@ -4,4 +4,4 @@ info:
 
 exec:
   extra_args:
-    - --exec="/home/deck/Games/GameCube/Tak 3 - The Great Juju Challenge.iso"
+    - --exec="/run/media/deck/SteamSD1/ROMs/GameCube/Tak 3 - The Great Juju Challenge.iso"
