@@ -1,0 +1,7 @@
+---
+info:
+  name: "Super Mario RPG"
+
+exec:
+  extra_args:
+    - "\"/run/media/deck/SteamSD1/ROMs/Switch/Super Mario RPG/Super Mario RPG [0100BC0018138000][USA][v0].nsp\""

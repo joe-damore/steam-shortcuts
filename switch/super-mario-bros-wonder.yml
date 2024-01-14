@@ -1,0 +1,7 @@
+---
+info:
+  name: "Super Mario Bros. Wonder"
+
+exec:
+  extra_args:
+    - "\"/run/media/deck/SteamSD1/ROMs/Switch/Super Mario Bros. Wonder/Super Mario Bros. Wonder [010015100B514000][1.0.0][0][16.0.3].nsp\""
