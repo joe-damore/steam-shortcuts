@@ -2,7 +2,7 @@
 schema: 1
 
 exec:
-  cwd: /Users/deck
+  cwd: /home/deck
   bin: /usr/bin/flatpak
   args:
     - run com.snes9x.Snes9x

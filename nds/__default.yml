@@ -2,7 +2,7 @@
 schema: 1
 
 exec:
-  cwd: /Users/deck
+  cwd: /home/deck
   bin: /home/deck/.local/bin/melonds-launcher
 
 info:
